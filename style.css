@@ -1,0 +1,71 @@
+*{
+    padding-left: -20%;
+}
+nav ul{
+    display: flex;
+    justify-content: space-between;
+    list-style: none;
+    right: 5px;
+    padding: 10px 20px;
+}
+.links{
+    text-decoration: none;
+    cursor: pointer;
+}
+.tom{
+    color: crimson;
+    font-size: xx-large;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    padding-top: 70px;
+    background-color: antiquewhite;
+    width: 280;
+}
+.jerry{
+    height: 550px;
+    width: 350px;
+    padding-left: 76.7%;
+    background-color: rgb(18, 107, 22);
+    margin-top: -30px;
+}
+.mickey{
+    text-align: center;
+    margin-top: -330px;
+    color: white;
+    font-size: xx-large;
+}
+.mouse{
+    text-align: center;
+    font-size: xx-large;
+    color: white;
+    background-color: darkviolet;
+   margin-top: -230px;
+}
+
+.duck{
+font-size:xx-large;
+text-align: center;
+color:white;
+background-color: darkblue;
+margin-top: -50px;
+}
+.popeye{
+    text-align: center;
+    font-size: xx-large;
+    background-color: brown;
+    color: white;
+    margin-top: -32px;
+}
+.igloo{
+    text-align: center;
+    font-size: xx-large;
+    background-color: rgb(101, 180, 180);
+    margin-top: -32px;
+    color: white;
+}
+.swiss{
+    background-color: rgb(101, 180, 180);
+    color: white;
+    font-size: xx-large;
+    margin-top: -32px;
+}
